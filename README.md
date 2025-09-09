@@ -35,12 +35,12 @@ Insights from this project can help improve marketing strategies, product recomm
 - Jupyter Notebook
   
 ## 🔋 Features
-✅ Data Cleaning and Preprocessing (handling missing values, encoding)
-✅ Exploratory Data Analysis (EDA) to understand spending patterns
-✅ Visualization of top customers, categories, and trends
-✅ Summary statistics of customer spending behavior
-✅ Exported analysis reports (customer_spending_report.csv)
-✅ Usable as both Notebook (spending_analysis.ipynb) and Script (spending_analysis.py)
+- ✅ Data Cleaning and Preprocessing (handling missing values, encoding)
+- ✅ Exploratory Data Analysis (EDA) to understand spending patterns
+- ✅ Visualization of top customers, categories, and trends
+- ✅ Summary statistics of customer spending behavior
+- ✅ Exported analysis reports (customer_spending_report.csv)
+- ✅ Usable as both Notebook (spending_analysis.ipynb) and Script (spending_analysis.py)
 ---
 ## 🤸 Quick Start
 ### Prerequisites
@@ -84,8 +84,10 @@ python spending_analysis.py
 - EDA plots – histograms, boxplots, bar charts of spending per category
   ![EDA plot](images/eda1.jpg)
   ![EDA plot](images/eda2.jpg)
+  
 - Histogram of Prediction Residuals with Density Curve
   ![scatter](images/spend.jpg)
+  
 - Actual vs Predicted Customer Spending
    ![predictions](images/predictions.jpg)
   
