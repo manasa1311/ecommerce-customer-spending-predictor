@@ -1,12 +1,13 @@
 🛒 E-commerce Customer Spending Analysis
 ![Project Banner](images/banner1.png)
+
   [![Python Version](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey?style=for-the-badge&logo=pandas&logoColor=black)](https://pandas.pydata.org/)
   [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
   [![Seaborn](https://img.shields.io/badge/Seaborn-EDA-blueviolet?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
   [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-
+  
 
 🤖 Introduction
 -⚙️ Tech Stack
